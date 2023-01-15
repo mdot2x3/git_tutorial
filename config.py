@@ -1,2 +1,2 @@
-version = 'version1'
+version = 'version2'
 print(version)
